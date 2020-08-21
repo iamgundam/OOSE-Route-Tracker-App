@@ -1,0 +1,20 @@
+theClimb Amazing views!
+    -31.94,115.75,47.1,Easy start
+    -31.94,115.75,55.3,Tricky, watch for drop bears.
+    -31.94,115.75,71.0,I*feel,like.over-punctuating!@#$%^&*()[]{}<>.?_+
+    -31.94,115.75,108.0,Getting there
+    -31.94,115.75,131.9
+
+mainRoute Since I was young
+    -31.96,115.80,63.0,I knew
+    -31.95,115.78,45.3,I'd find you
+    -31.95,115.77,44.8,*noexisto
+    -31.94,115.75,47.1,But our love
+    -31.93,115.72,40.1,Was a song
+    -31.94,115.75,47.1,*theClimb
+    -31.93,115.75,131.9,Sung by a dying swan
+
+theStroll Breathe in the light
+    -31.95,115.77,44.8,I'll stay here
+    -31.93,115.76,43.0,In the shadow
+    -31.94,115.75,47.1
